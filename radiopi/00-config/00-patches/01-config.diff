@@ -1,0 +1,13 @@
+--- a/rootfs/boot/config.txt
++++ b/rootfs/boot/config.txt
+@@ -54,7 +54,9 @@
+ # Additional overlays and parameters are documented /boot/overlays/README
+ 
+ # Enable audio (loads snd_bcm2835)
+-dtparam=audio=on
++#dtparam=audio=on
++dtparam=audio=off
++dtoverlay=justboom-dac
+ 
+ [pi4]
+ # Enable DRM VC4 V3D driver on top of the dispmanx display stack
