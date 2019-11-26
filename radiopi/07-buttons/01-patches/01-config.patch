@@ -1,0 +1,11 @@
+--- a/rootfs/boot/config.txt
++++ b/rootfs/boot/config.txt
+@@ -58,6 +58,8 @@
+ dtparam=audio=off
+ dtoverlay=justboom-dac
+
++dtoverlay=buttonboard
++
+ [pi4]
+ # Enable DRM VC4 V3D driver on top of the dispmanx display stack
+ dtoverlay=vc4-fkms-v3d

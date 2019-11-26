@@ -1,0 +1,3 @@
+[submodule "radiopi/06-radio/files"]
+	path = radiopi/06-radio/files
+	url = ssh://git@dckr.fbw9.local:10022/andi/radio

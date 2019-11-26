@@ -1,4 +1,0 @@
-# Mopidy APT archive
-# Built on Debian 10 (buster)
-deb http://apt.mopidy.com/ buster main contrib non-free
-deb-src http://apt.mopidy.com/ buster main contrib non-free

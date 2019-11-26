@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,ROCKANTENNE
+http://mp3channels.webradio.rockantenne.de/rockantenne
+#EXTINF:-1,ENERGY Salzburg
+http://stream1.energy.at:8000/sbg
+#EXTINF:-1,Radio Salzburg
+http://194.232.200.147:8000/
+#EXTINF:-1,Radio Oberösterreich
+http://194.232.200.148:8000/
+#EXTINF:-1,WELLE1
+http://live.welle1.at:8128/
+#EXTINF:-1,Ö3
+http://185.85.29.161:8000/;
