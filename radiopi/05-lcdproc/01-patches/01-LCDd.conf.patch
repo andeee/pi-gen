@@ -18,8 +18,8 @@
 +Size=16x2
 +pin_D4=8
 +pin_D5=7
-+pin_D6=12
-+pin_D7=16
++pin_D6=9
++pin_D7=11
 +pin_EN=25
 +pin_RS=24
 +pin_BL=23
