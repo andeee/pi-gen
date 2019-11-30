@@ -1,1 +1,5 @@
-lcdproc
+git
+autoconf
+automake
+libtool
+m4

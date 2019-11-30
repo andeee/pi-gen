@@ -1,0 +1,10 @@
+[Unit]
+Description=LCD display daemon
+Documentation=man:LCDd(8) http://www.lcdproc.org/
+
+[Service]
+User=root
+ExecStart=/usr/local/sbin/LCDd -s 1 -f -c /usr/local/etc/LCDd.conf
+
+[Install]
+WantedBy=multi-user.target
